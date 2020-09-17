@@ -50,7 +50,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+-Ikzelf moet voor mijn eigen site: mijn main meer verdelen in sections (section altijd beginnen met heading) ook weghalen van classes en divjes en werken met hoeveelste type, footer witruimte weghalen door de list items op margin 0 te zetten, een makkelijke carrousel maken voor de meerdere main dingetjes met overflow-x (screenshot gemaakt van Dylan's), voor de artikelen carrousel maken met JS dit is ook de micro-interactie (dobbelsteenopdracht)(faden). -
 
 
 
