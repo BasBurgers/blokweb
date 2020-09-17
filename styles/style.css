@@ -1,5 +1,144 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    font-family: Helvetica;
 }
 
+body {
+    margin: 0;
+}
+
+header {
+    background-color: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+header nav {
+    flex-grow: 1;
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+header nav li {
+    min-width: 6em;
+    flex-grow: 1;
+}
+
+header nav li + li {
+    border-left: solid 1px transparent;
+}
+
+header nav a {
+    display: block;
+    text-align: center;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    padding: 3px;
+    line-height: 25px;
+    margin-top: 3px;
+    margin-bottom: 3px
+}
+
+.zoekbar {
+    margin: 3px;
+    display: flex;
+    flex-grow: 5;
+    justify-content: flex-end;
+    border-radius: 0px;
+    border: 1px solid black;
+    line-height: 27px;
+    width: 250px;
+}
+
+.logo {
+    display: block;
+    width: 7em;
+    height: 1.9em;
+    margin: 3px;
+}
+
+
+.item1 {
+    grid-area: left
+}
+
+.item2 {
+    grid-area: middle
+}
+
+.item3 {
+    grid-area: right
+}
+
+.trendfoto {
+    width: 150%;
+}
+
+.grid-trends {
+    display: grid;
+    grid-template-areas:
+        'left middle right'
+        'left middle right';
+    grid-gap: px;
+    padding: 40px;
+    float: left
+}
+
+.grid-category {
+    display: grid;
+    grid-template-areas: 'auto auto auto auto auto auto';
+    grid-gap: 15px;
+    padding: 40px;
+}
+
+
+.carousel1 {
+    position: relative
+}
+
+.outdoor {
+    width: 93%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%
+}
+
+.article {
+    position: absolute;
+    bottom: 0;
+    right: 22px;
+    background-color: black;
+    color: white;
+    margin-bottom: 3%;
+    padding-left: 8px;
+    padding-right: 8px;
+    opacity: 85%;
+
+}
+
+footer {
+    display: flex;
+    background-color: dimgrey;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+footer nav ul {
+    display: flex;
+    margin: 0;
+    list-style: none;
+    padding: 0
+}
+
+footer nav {flex-grow: 1;}
