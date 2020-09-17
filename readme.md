@@ -38,7 +38,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-De content op de pagina's brengen was wel eenvoudig en het positioneren en schalen van items op mijn site ging ook nog welmaar vanaf daar werd het steeds moeilijker. Nu ik een tijdje met flexbox aan de gang ben geweest heb ik een mooie responsive navigatie en ik ben er nu mee bezig om dmv flexbox ook een responsive footer te plaatsen, maar dit gaat helaas niet zonder slag of stoot. Ik heb nog een lange weg te gaan maar ben in ieder geval bezig met blijven proberen.-
 
 **Screenshot(s):**
 
@@ -46,7 +46,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+-Carrousels in de website, doen of niet? Het positioneren van een nav. Het schalen van de gehele pagina en het responsive maken ervan. Hoeveel animaties en interacties bij een service-plane opdracht?-
 
 ### Verslag van meeting
 
