@@ -24,9 +24,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
+-Heb de homepagina en de detailpagina af, ben nu bezig met het implementeren van js op een image-gallery en een slideshow. Ik heb wel nog overal gebruik gemaakt van ID's, hier moet ik vanaf. In de vakantie wanneer ik mijn site nagenoeg af heb moet ik een dag uittrekken voor het veranderen hiervan naar nth-of-types en andere benamingen. Verder ga ik nog aan de slag met de states: ik wil veel gebruik gaan maken van hovers en actives.-
 
+### Agenda voor meeting
+-Ik ben bezig met het creeeren van een gallerij op mijn detailpagina, maar kom niet verder dan de vormgeving ervan, heb vanalles geprobeerd maar het lukt niet. Verder gaan we bezig met nog wat JS, grids en algehele positionering.-
 
+### Verslag van meeting
+-De meeting ging goed, heb er veel aan gehad aangezien ik veels te moeilijk bezig was met Javascript. Ik heb te horen gekregen dat wat ik probeerde te doen, het mogelijk was om veel makkelijker te doen. Verder weet ik nu dat ik de opacity met javascript en css makkelijk kan veranderen met JS. Ook de sticky header is makkelijk te implementeren, als ik hier toch hulp bij nodig heb kan ik Jacco contacteren.-
 
 ## Voortgang 2 (week 5)
 
