@@ -8,6 +8,13 @@
 
 body {
     margin: 0;
+
+}
+
+h2 {
+    font-size: 20px;
+    margin-top: 2em;
+    margin-left: 1.2em;
 }
 
 header {
@@ -68,39 +75,6 @@ header nav a {
 }
 
 
-.item1 {
-    grid-area: left
-}
-
-.item2 {
-    grid-area: middle
-}
-
-.item3 {
-    grid-area: right
-}
-
-.trendfoto {
-    width: 150%;
-}
-
-.grid-trends {
-    display: grid;
-    grid-template-areas:
-        'left middle right'
-        'left middle right';
-    grid-gap: px;
-    padding: 40px;
-    float: left
-}
-
-.grid-category {
-    display: grid;
-    grid-template-areas: 'auto auto auto auto auto auto';
-    grid-gap: 15px;
-    padding: 40px;
-}
-
 
 .carousel1 {
     position: relative
@@ -111,7 +85,8 @@ header nav a {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 4%
+    margin-top: 4%;
+    max-width: 80%
 }
 
 .article {
@@ -127,18 +102,313 @@ header nav a {
 
 }
 
-footer {
-    display: flex;
-    background-color: dimgrey;
-    flex-wrap: wrap;
-    justify-content: flex-start;
+.slider {
+    position: relative;
+    white-space: nowrap;
+    overflow-x: scroll;
+    margin-left: 1em;
+    margin-right: 1em;
+
 }
 
-footer nav ul {
-    display: flex;
-    margin: 0;
+.slider::-webkit-scrollbar {
+    display: none;
+}
+
+
+.slide {
+    display: inline-block;
+    position: relative;
+    margin-left: 0.5em;
+}
+
+#slideimg {
+    width: 10em;
+    display: block;
+}
+
+#tijd {
+    font-size: 10px;
+    opacity: 0.6;
+    margin-top: 0.6em;
+}
+
+#merk {
+    font-size: 14px;
+    margin-top: 1em;
+    font-weight: bold
+}
+
+#beschrijving {
+    font-size: 13px;
+    margin-top: 5px;
+    opacity: 0.8;
+}
+
+#prijs {
+    font-size: 14px;
+    margin-top: 5px
+}
+
+#slideimgbreed {
+    width: 16em;
+
+}
+
+#subtextbreed {
+    font-weight: bold;
+    margin-top: 1em;
+    margin-left: 0.5em;
+}
+
+.slidebreed {
+    display: inline-block;
+    position: relative;
+    margin-left: 0.5em;
+    border-style: solid;
+    border-width: 0.1em;
+    border-color: lightgray;
+    box-shadow: 0.2em 0.2em lightgray;
+    height: 13em;
+}
+
+#artikeltext1 {
+    opacity: 0.6;
+    margin-top: 0.5em;
+    font-size: 14px;
+}
+
+#artikeltext2 {
+    font-size: 14px;
+    margin-top: 0.5em;
+}
+
+#gridcontainer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 0 1.5em;
+    grid-row-gap: 1em;
+    grid-column-gap: 1em
+}
+
+#gridimage {
+    width: 9em
+}
+
+#designerimage {
+    width: 9em;
+    border-radius: 50%;
+    border: 0.1em solid lightgray
+}
+
+#griditem {
+    text-align: center;
+    font-size: 14px;
+    font-weight: normal
+}
+
+#links {
+    font-size: 12px;
+    padding: 1em;
+    text-decoration: underline;
+    line-height: 2em;
+    opacity: 0.6;
+}
+
+
+#productmerk {
+    font-size: 17px;
+    text-decoration: underline;
+    opacity: 3;
+    font-weight: bold
+}
+
+#productbeschrijving {
+    text-decoration: none;
+    font-size: 15px;
+    opacity: 1;
+    font-weight: normal;
+    line-height: 2.5em
+}
+
+#info {
+    width: 80%;
+    margin-left: 1em
+}
+
+#productprijs {
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 0.2em;
+}
+
+#purchbut {
+    width: 93%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    height: 3em;
+    border-radius: 0;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    border: 1px solid black;
+}
+
+#anderbut {
+    width: 93%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.4em;
+    height: 3em;
+    border-radius: 0;
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    border: 1px solid black;
+}
+
+#meerinfo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 93%
+}
+
+hr {
+    width: 93%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    opacity: 0.6
+}
+
+#artikel {
+    margin-top: 0.5em;
+    margin-bottom: 0.7em;
+    width: 100%
+}
+
+#posted {
+    font-size: 13px;
+    opacity: 0.6;
+    margin-left: 1em;
+}
+
+#comparison {
+    font-size: 13px;
+    margin-left: 1em;
+    border: 1px solid lightgray;
+    width: 35%;
+    text-align: center
+}
+
+#paypal {
+    width: 94.5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5em;
+    border: 1px solid lightgray;
+    padding: 0.8em;
+    margin-top: 1.5em;
+}
+
+#discussion {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 94.5%;
+    text-align: center;
+    margin-top: 5em
+}
+
+#comment {
+    text-align: left;
+    font-size: 12px;
+    opacity: 0.6;
+}
+
+textarea {
+    width: 100%;
+    height: 5em;
+    border: 1px solid lightgray;
+}
+
+#commentbut {
+    width: 100%;
+    border: 1px solid lightgray;
+    background-color: white;
+    height: 3em;
+}
+
+#geenconvo {
+    width: 100%;
+    height: 20em;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 2em;
+}
+
+#convo {
+    padding-top: 4em;
+    font-size: 13.5px;
+    font-weight: lighter
+}
+
+#menu {
     list-style: none;
-    padding: 0
+    display: flex;
+    padding: 0;
+    margin-left: 1em;
 }
 
-footer nav {flex-grow: 1;}
+#footer-icons {
+    width: 20%;
+    float: left
+}
+
+#menu li {
+    padding-left: 0.7em;
+}
+
+#socials {
+    width: 2em;
+}
+
+#footer-rechts {
+    display: flex;
+    float: right;
+    margin-right: 1em;
+    margin-top: 0.5em
+}
+
+#schoen1 {
+    width: 93%;
+}
+
+#gallerij {
+    display: flex;
+    height: 100vh;
+}
+
+#schoen-gallery {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#schoenpreview {
+    display: flex;
+    width: 93%;
+}
+
+#schoenpreview img {
+    height: 7em;
+    opacity: 0.5;
+    flex-grow: 1;
+    cursor: pointer;
+}
