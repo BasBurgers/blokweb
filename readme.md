@@ -14,7 +14,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+--ID's en classes merendeels vervangen door andere selectoren, wel heb ik steeds erg veel moeite met een werkende micro-interactie te krijgen. Ik blijf het steeds op andere manieren proberen maar uiteindelijk werkt het steeds niet. Ik denk dat dit komt omdat ik bij het vak Inleiding Programmeren erg nalatig ben geweest waardoor ik deze niet heb gehaald.--
 
 **Screenshot(s):**
 
@@ -63,7 +63,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:** -blauw-
 
-**Je focus:** -responsive-
+**Je focus:** -surface-
 
 **Je opdracht:** -https://www.grailed.com-
 
