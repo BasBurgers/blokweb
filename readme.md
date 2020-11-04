@@ -9,7 +9,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 1. -Oefeningen week 2 (werkgroep 3): Flexbox-
 2. -Oefeningen week 2 (werkgroep 2): Positioneren-
 3. -Oefeningen week 5 (werkgroep 7): Keyframe animations-
-3. -CSS Grid Layout op W3schools, URL: https://www.w3schools.com/css/css_grid.asp-
+4. -CSS Grid Layout op W3schools, URL: https://www.w3schools.com/css/css_grid.asp-
 
 
 
