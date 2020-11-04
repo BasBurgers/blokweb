@@ -19,8 +19,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+-Screenshot loadingpage-
+![image](https://user-images.githubusercontent.com/70704670/98108849-ee7f8c80-1e9c-11eb-8a5a-d1983569e0de.png)
 
+-Screenshot homepage-
+![image](https://user-images.githubusercontent.com/70704670/98108878-fb03e500-1e9c-11eb-8609-90622a4678d3.png)
+
+-Screenshot detailpagina-
+![image](https://user-images.githubusercontent.com/70704670/98108904-048d4d00-1e9d-11eb-8a8e-4dfa6d1dfa9d.png
 
 
 ## Voortgang 3 (week 6)
@@ -48,13 +54,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--Screenshot loadingpage-
-![image](https://user-images.githubusercontent.com/70704670/98108849-ee7f8c80-1e9c-11eb-8a5a-d1983569e0de.png)
-
--Screenshot homepage-
-
-
--Screenshot detailpagina-
 
 
 ### Agenda voor meeting
