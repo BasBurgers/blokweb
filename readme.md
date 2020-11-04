@@ -6,9 +6,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. -Oefeningen week 2 (werkgroep 3): Flexbox-
+2. -Oefeningen week 2 (werkgroep 2): Positioneren-
+3. -Oefeningen week 5 (werkgroep 7): Keyframe animations-
+3. -CSS Grid Layout op W3schools, URL: https://www.w3schools.com/css/css_grid.asp-
 
 
 
@@ -47,7 +48,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+-Screenshot loadingpage-
+
+
+-Screenshot homepage-
+
+
+-Screenshot detailpagina-
+
 
 ### Agenda voor meeting
 
