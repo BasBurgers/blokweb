@@ -45,4 +45,3 @@ function changeImage4(img) {
 function changeImage5(img) {
     bigImg.src = '/images/schoen5-big.jpg'
 }
-

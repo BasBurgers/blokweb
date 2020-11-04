@@ -455,6 +455,10 @@ footer article:nth-of-type(2) {
     width: 93%;
 }
 
+.anders {
+    opacity: 1;
+}
+
 #gallerij {
     display: flex;
     height: 100vh;
@@ -659,7 +663,13 @@ body footer div button {
 #enterbutton {
     display: flex;
     justify-content: center;
-    margin-top: 20em
+    margin-top: 15em
+}
+
+#line {
+    border: 3px solid black;
+    width: 67%;
+    opacity: 0.4;
 }
 
 /*Keyframe animatie loading page*/
@@ -677,8 +687,12 @@ body footer div button {
         transform: translateY(34rem);
     }
 
-    65% {
-        transform: translateY(0)
+    50% {
+        transform: translateY(0);
+    }
+
+    99% {
+        border: 3px solid black;
     }
 }
 
