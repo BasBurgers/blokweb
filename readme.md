@@ -81,4 +81,5 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+<img width="216" alt="Schermafbeelding 2020-11-04 om 13 43 36" src="https://user-images.githubusercontent.com/70704670/98113292-bf204e00-1ea3-11eb-9bc7-6b61cde67a64.png">
+
