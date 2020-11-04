@@ -40,20 +40,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Verslag van meeting
 -De meeting ging goed, heb er veel aan gehad aangezien ik veels te moeilijk bezig was met Javascript. Ik heb te horen gekregen dat wat ik probeerde te doen, het mogelijk was om veel makkelijker te doen. Verder weet ik nu dat ik de opacity met javascript en css makkelijk kan veranderen met JS. Ook de sticky header is makkelijk te implementeren, als ik hier toch hulp bij nodig heb kan ik Jacco contacteren.-
 
-## Voortgang 2 (week 5)
-
--same as voortgang 1-
-
-
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
 -De content op de pagina's brengen was wel eenvoudig en het positioneren en schalen van items op mijn site ging ook nog welmaar vanaf daar werd het steeds moeilijker. Nu ik een tijdje met flexbox aan de gang ben geweest heb ik een mooie responsive navigatie en ik ben er nu mee bezig om dmv flexbox ook een responsive footer te plaatsen, maar dit gaat helaas niet zonder slag of stoot. Ik heb nog een lange weg te gaan maar ben in ieder geval bezig met blijven proberen.-
-
-**Screenshot(s):**
-
 
 
 ### Agenda voor meeting
