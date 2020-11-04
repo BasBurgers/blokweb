@@ -20,13 +20,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 -Screenshot loadingpage-
-![image](https://user-images.githubusercontent.com/70704670/98108849-ee7f8c80-1e9c-11eb-8a5a-d1983569e0de.png)
+![image] <img width="499" src="https://user-images.githubusercontent.com/70704670/98108849-ee7f8c80-1e9c-11eb-8a5a-d1983569e0de.png">
 
 -Screenshot homepage-
-![image](https://user-images.githubusercontent.com/70704670/98108878-fb03e500-1e9c-11eb-8609-90622a4678d3.png)
+![image] <img width="499" src="https://user-images.githubusercontent.com/70704670/98108878-fb03e500-1e9c-11eb-8609-90622a4678d3.png">
 
 -Screenshot detailpagina-
-![image](https://user-images.githubusercontent.com/70704670/98108904-048d4d00-1e9d-11eb-8a8e-4dfa6d1dfa9d.png
+![image] <img width="499" src="https://user-images.githubusercontent.com/70704670/98108904-048d4d00-1e9d-11eb-8a8e-4dfa6d1dfa9d.png">
 
 
 ## Voortgang 3 (week 6)
@@ -76,7 +76,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+<img width="499" alt="Schermafbeelding 2020-11-04 om 13 11 21" src="https://user-images.githubusercontent.com/70704670/98110354-3dc6bc80-1e9f-11eb-9c57-be8ccef913dd.png">
+
 
 **Breakdown-schets(en):**
 
